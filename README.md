@@ -7,9 +7,9 @@ assuming a (non-existent) single page web app that fetches data from Django view
 
 The project consists of two Django apps:
 
-* notes: handles content creation, viewing, and management
+- notes: handles content creation, viewing, and management
 
-* accounts: handles account creation and management
+- accounts: handles account creation and management
 
 In addition to the standard models and views within each app, you will find files containing
 entities and use cases.
@@ -33,14 +33,14 @@ and HTTP layers.
 
 ## Inspiration for this project
 
-* [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+- [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 
-* [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-* [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
+- [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM)
 
 ## Alternatives
 
-* Leonardo Giordani [wrote a post](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) and [published a repo](https://github.com/lgiordani/rentomatic) applying this architecture to Flask
+- Leonardo Giordani [wrote a post](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) and [published a repo](https://github.com/lgiordani/rentomatic) applying this architecture to Flask
 
-* Jordi Fierro [wrote a post](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9) and [published a repo](https://github.com/jordifierro/abidria-api) exploring the same ideas with Django
+- Jordi Fierro [wrote a post](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9) and [published a repo](https://github.com/jordifierro/abidria-api) exploring the same ideas with Django
